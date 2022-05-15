@@ -1,11 +1,11 @@
 {
   "name": "POPUP-URL-EXTENSION",
   "short_name": "POPUP-URL",
-  "version": "0.1.0",
+  "version": "1.0",
   "manifest_version": 3,
   "description": "description",
   "icons": {
-    "128": "icons/icon128.png"
+    "128": "icons/icon.png"
   },
   "action": {
     "default_title": "POPUP-URL",
