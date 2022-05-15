@@ -15,7 +15,7 @@ const func = () => {
     // 切り替える開発環境分の変数を作成する
     let devUrl,
       stgUrl,
-      relUrl;ß
+      relUrl;
 
     // 切り替えるドメインの数だけ配列を作成する
     // corporate
@@ -23,7 +23,7 @@ const func = () => {
         [
           'https://www.google.com/',
           'https://www.yahoo.co.jp',
-          'https://www.microsoft.com'ß
+          'https://www.microsoft.com'
         ]
       ],
 
