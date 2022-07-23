@@ -13,7 +13,7 @@ const func = () => {
       alertElement = document.getElementById('js-textWrap'),
       listElement = document.getElementById('js-listWrap'),
       emptyText = () => {
-        alertElement.innerHTML = '<p>該当するページではありません。</p>';
+        alertElement.innerHTML = '<p>This page is not applicable.</p>';
         listElement.classList.add('hide');
       };
 
